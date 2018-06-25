@@ -1,2 +1,2 @@
-# typo3-cdsrc_gmap
-Google map media element for TYPO3
+# Google map media element (cdsrc_gmap)
+TYPO3 extension that add Google map as media element
